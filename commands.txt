@@ -1,0 +1,11 @@
+In server : 
+yarn init
+yarn add express
+yarn add @apollo/server graphql
+yarn add body-parser cors
+node index.js or, nodemon index.js => to start server
+
+In client : 
+yarn create react-app .
+yarn add @apollo/client graphql
+yarn start
